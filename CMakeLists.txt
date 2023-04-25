@@ -7,3 +7,5 @@ project ("AppLauncher")
 
 # Include sub-projects.
 add_subdirectory ("AppLauncher")
+
+add_executable(main.cpp)
